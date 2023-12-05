@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Nirmalsinghomi
+- 👀 I’m interested in Coding...
+- 🌱 I’m currently learning Frontend Development ...
+- 📫 How to reach me , my email --> titwitergeetadevi123@gmail.com  ...
+
+<!---
+Nirmalsinghomi/Nirmalsinghomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
